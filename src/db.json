@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "name": "SUV",
+      "brand": "Toyota",
+      "category": "Medium",
+      "price": "$26,000 - $40,000",
+      "description": "The Toyota RAV4 is a reliable and fuel-efficient compact SUV known for its spacious interior, comfortable ride, and strong resale value. It offers a range of trim levels, including hybrid options for improved fuel economy.",
+      "createdAt": "2024-20-3",
+      "id": 1
+    },
+    {
+      "name": "sedan",
+      "brand": "Maruti Suzuki",
+      "category": "Low",
+      "price": "$15,000 - $20,000",
+      "description": "Suzuki",
+      "createdAt": "2024-20-3",
+      "id": 2
+    },
+    {
+      "name": "Mini Van",
+      "brand": "Van",
+      "category": "Medium",
+      "price": "$6,000 - $10,000",
+      "description": "The Greatest Model",
+      "createdAt": "2024-20-3",
+      "id": 3
+    },
+    {
+      "name": "BMW",
+      "brand": "Audi",
+      "category": "High",
+      "price": "$16,000 - $50,000",
+      "description": "using this Luxury Car",
+      "createdAt": "2024-20-3",
+      "id": 4
+    }
+  ]
+}
